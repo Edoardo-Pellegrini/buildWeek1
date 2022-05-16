@@ -1,64 +1,66 @@
-body {
-    width: 60%;
-}
 
 #Menu {
     color: #333333;
-    font: 14px;
     padding: 70px 0px;
+    display: block;
+    text-align: center;
+    font-size: 36px;
 }
 #Menu h1 {
     color: #2E2E2E;
-    font: 22px;
     padding: 40px 0px;
     background: #C8C1B3;
     margin: 0px 0px 0px -70px;
 }
 span {
     color: #FF530A;
-    font: 28px;
+    font-size: 45px;
+    font-weight: bold;
 }
 #Menu p {
     color: #9D9D9D;
-    font: 16px;
+    font-size: 16px;
     padding: 40px 0px 0px;
 }
 .Prezzi button {
     color: #FF4F02;
-    font: 15px;
+    font-size: 15px;
     padding: 28px 100px;
+    border: 1px solid #FF4F02;
+    background-color: white;
 }
 
 .Prezzi {
     padding: 85px 0px 0px 0px;
+    text-align: left;
 }
 .Prezzi .Titolo {
-    font: 14px;
+    font-size: 14px;
     padding: 30px 0px;
 }
 .Titolo h3 {
-    font: 20px;
+    font-size: 20px;
 }
 .Titolo span {
-    font: 20px;
+    font-size: 20px;
 }
 
 li {
     list-style: none;
-    font: 14px;
+    font-size: 14px;
     padding: 21px 0px;
 }
 li h2 {
-    font: 24px;
+    font-size: 24px;
     background: #FFFFFF;
 }
 li span {
     color: #938463;
-    font: 14px;
+    font-size: 14px;
     padding: 10px 0px 0px;
 }
 li p {
     color: #949494;
-    font: 14px;
+    font-size: 14px;
     padding: 12px 0px 0px;
 }
